@@ -29,11 +29,12 @@ Technologies and tools that I work with:
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>-->
+  <br><br>
 </div>
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YvamAugusto&theme=midnight-purple&include_all_commits=true&count_private=true&show_icons=true" >
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilsonwar&theme=midnight-purple&layout=compact&langs_count=10" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilsonwar&theme=midnight-purple&layout=compact&langs_count=10" >
 </div>
 
 <!--
