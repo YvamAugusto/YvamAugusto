@@ -10,6 +10,7 @@ I'm a young beginner programming enthusiast, building a career in this world of 
   <a href="https://www.twitch.tv/yvam_augusto/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:yvamaugusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!--<a href="https://api.whatsapp.com/send?phone=5548996361374" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
+  <br><br>
 </div>
 
 
