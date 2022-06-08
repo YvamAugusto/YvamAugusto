@@ -7,17 +7,13 @@ I'm a young beginner programming enthusiast, building a career in this world of 
 <div>
   <a href="https://instagram.com/yvam_augusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yvam-augusto-moraes-del-canali-2a602621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/yvam_augusto/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:yvamaugusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--<a href="https://api.whatsapp.com/send?phone=5548996361374" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
+  <!--<a href="https://www.twitch.tv/yvam_augusto/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
   <br><br>
 </div>
 
-
-
-
-
 Technologies and tools that I work with:
+
 <div>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
@@ -33,6 +29,9 @@ Technologies and tools that I work with:
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>-->
+  <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YvamAugusto&theme=midnight-purple&include_all_commits=true&count_private=true&show_icons=true" >
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilsonwar&theme=midnight-purple&layout=compact&langs_count=10" >
 </div>
 
 <!--
