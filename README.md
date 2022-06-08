@@ -33,8 +33,8 @@ Technologies and tools that I work with:
 </div>
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YvamAugusto&theme=midnight-purple&include_all_commits=true&count_private=true&show_icons=true" >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilsonwar&theme=midnight-purple&layout=compact&langs_count=10" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YvamAugusto&theme=github_dark&include_all_commits=true&count_private=true&show_icons=true" >
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YvamAugusto&theme=github_dark&layout=compact&langs_count=10" >
 </div>
 
 <!--
