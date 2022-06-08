@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-### Welcome to my GitHub account, it's a pleasure to receive you!
+Welcome to my GitHub account, it's a pleasure to receive you!
 
-### I'm a young beginner programming enthusiast, building a career in this world of software development. 
+I'm a young beginner programming enthusiast, building a career in this world of software development. 
 
-@java java
+technologies and tools that I work with:
 
 <!--
 **YvamAugusto/YvamAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
