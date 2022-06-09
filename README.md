@@ -4,7 +4,7 @@ Welcome to my GitHub account, it's a pleasure to receive you!
 
 I'm a young beginner programming enthusiast, building a career in this world of software development. 
 
-<div>
+<div align="center">
   <a href="https://instagram.com/yvam_augusto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/yvam-augusto-moraes-del-canali-2a602621a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:yvamaugusto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -14,7 +14,7 @@ I'm a young beginner programming enthusiast, building a career in this world of 
 
 Technologies and tools that I work with:
 
-<div>
+<div align="center">
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
