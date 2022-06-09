@@ -14,7 +14,7 @@ I'm a young beginner programming enthusiast, building a career in this world of 
 
 Technologies and tools that I work with:
 
-<div align="center">
+<div>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
   <a href="https://github.com/YvamAugusto" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
